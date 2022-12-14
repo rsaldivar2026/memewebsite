@@ -78,7 +78,7 @@ footer{
 #footerlinks{
     color:rgb(245, 241, 241);
 }
-@media (max-width:625px) {
+@media (max-width:728px) {
     .toggle-button{
         display:flex;
     }
